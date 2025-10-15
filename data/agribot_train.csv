@@ -1,0 +1,23 @@
+question,answer,intent,difficulty,bucket
+How does mulching help?,"Mulch reduces evaporation, suppresses weeds, moderates soil temperature, and can add organic matter as it breaks down.",soil_water,easy,water_irrigation
+How do I choose drought-tolerant crops?,"Select varieties with short maturity and deep roots: sorghum, millet, cassava, cowpea. Use mulching and staggered planting to spread risk.",crop_selection,medium,crop_mgmt
+What is the capital of France?,"I only answer agriculture topics. Try asking about crops, soils, irrigation, or pests.",ood_rejection,easy,ood_rejection
+How often should I rotate crops?,Rotate crop families every season (or at least annually). A 3–4 year rotation helps break pest/disease cycles and improves soil nutrient balance.,crop_rotation,easy,crop_mgmt
+What are good storage options for maize?,"Use hermetic bags, metal silos, or sealed plastic drums; keep off the floor and away from walls; check for pests monthly.",postharvest,easy,postharvest
+How do I control aphids organically?,"Use strong water sprays, introduce natural enemies (lady beetles), apply neem oil or insecticidal soap, and remove infested tips.",ipm,easy,pests_diseases
+Can you fix my smartphone screen?,"I’m focused on agriculture questions like crops, soils, water, and pests. Please ask a farming-related question.",ood_rejection,easy,ood_rejection
+What are signs of nitrogen deficiency?,"Yellowing leaves starting from older leaves, stunted growth, and low tillering in cereals indicate nitrogen deficiency. Confirm with soil or leaf tests.",soil_nutrients,easy,soil_fertility
+How do I prevent fungal diseases?,"Improve air flow with proper spacing, irrigate at soil level, rotate crops, remove infected residues, and use resistant varieties or fungicides if needed.",disease_management,easy,pests_diseases
+Should I buy hybrid or open-pollinated seed?,Hybrids give higher yields but you must buy fresh seed yearly; open-pollinated varieties are cheaper and can be saved with some yield trade-off.,seed_choice,easy,economics
+What is Integrated Pest Management (IPM)?,"IPM combines prevention, monitoring, and targeted controls (cultural, biological, mechanical, chemical as last resort) to keep pests below economic thresholds.",ipm,easy,pests_diseases
+How often should I irrigate tomatoes?,Irrigate 2–3 times per week depending on weather and soil; keep soil consistently moist but not waterlogged. Drip irrigation is ideal.,irrigation,easy,water_irrigation
+What crops are best for sandy soils?,"Root crops like carrots, peanuts, and sweet potatoes perform well in sandy soils. Improve water retention by adding organic matter (compost) and applying mulches.",crop_selection,easy,crop_mgmt
+How can I harvest rainwater for crops?,"Install gutters into storage tanks, use lined ponds, and channel runoff to infiltration pits or swales. Cover storage to prevent contamination and evaporation.",water_harvesting,medium,water_irrigation
+Is burning crop residues good practice?,Avoid burning: it loses nutrients and organic matter and increases erosion. Incorporate residues or compost them instead.,sustainability,easy,sustainability
+Should I use urea or NPK?,Use NPK for balanced basal fertilization at planting; top-dress with urea or CAN when crops are established. Follow local recommendations and soil tests.,fertilizer_management,medium,soil_fertility
+Which crops fix nitrogen naturally?,"Legumes such as beans, peas, cowpea, and clover fix nitrogen through symbiosis with rhizobia. Inoculate seeds if soils lack native rhizobia.",soil_nutrients,easy,soil_fertility
+How can I improve soil fertility organically?,"Apply 5–10 tons/ha of compost or well-decomposed manure, rotate with legumes, retain crop residues, and avoid burning. Test soil to target amendments.",soil_fertility,easy,soil_fertility
+How can I reduce postharvest losses in grains?,"Dry to safe moisture (~12–13%), use airtight or hermetic storage, clean stores, and control rodents. Handle gently to avoid breaking grains.",postharvest,medium,postharvest
+What is conservation agriculture?,"It is minimal soil disturbance, permanent organic soil cover, and diverse crop rotations. It improves soil structure and long-term productivity.",sustainability,medium,sustainability
+How do I calibrate a knapsack sprayer?,"Measure nozzle output per minute, walk a known area at normal pace, and adjust pressure/nozzles to apply the recommended rate per hectare.",application,medium,safety_apps
+How should I plan planting around rainfall?,Use local seasonal forecasts and historical data. Plant early-maturing varieties at the onset of rains; stagger planting to hedge against variability.,climate_planning,medium,weather_climate

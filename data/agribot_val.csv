@@ -1,0 +1,12 @@
+question,answer,intent,difficulty,bucket
+How much lime should I apply?,"Base lime rates on a soil test. As a rough guide, 1–2 tons/ha of agricultural lime can raise pH in acidic soils, but lab recommendations are essential.",soil_amendments,medium,soil_fertility
+What can I do against drought risk?,"Adopt drought-tolerant varieties, mulch, conserve soil moisture with minimum tillage, practice water harvesting, and diversify crops/livestock.",risk_management,medium,weather_climate
+How can I reduce maize fall armyworm damage?,"Scout weekly, interplant with legumes, apply Bt or neem early, encourage natural enemies, and use recommended selective insecticides if thresholds are exceeded.",pest_control,medium,pests_diseases
+What is the ideal soil pH for most crops?,Most crops prefer pH 6.0–7.0. Lime acidic soils and apply elemental sulfur for alkaline soils as recommended by soil tests.,soil_testing,easy,soil_fertility
+How do I handle pesticides safely?,"Read labels, wear PPE (gloves, mask, long sleeves), avoid windy spraying, calibrate sprayers, and store chemicals locked away from children and food.",safety,easy,safety_apps
+How can I reduce soil erosion on slopes?,"Build contour bunds or terraces, plant vetiver/napier grass strips, maintain cover crops, and avoid bare fallows.",soil_conservation,medium,sustainability
+What is intercropping and why use it?,"Intercropping is growing two or more crops together. It improves resource use, suppresses weeds, reduces pest pressure, and stabilizes yields.",intercropping,easy,crop_mgmt
+What is drip irrigation and its benefits?,"Drip delivers water to the root zone at low rates, reducing evaporation, disease, and weed growth. It improves water-use efficiency and yields.",irrigation,easy,water_irrigation
+How do I estimate profit before planting?,"List costs (seed, fertilizer, labor, irrigation), estimate yield and price, compute gross margin = revenue − variable costs; run best/worst-case scenarios.",farm_economics,medium,economics
+What time of day is best to irrigate?,Early morning or late afternoon reduces evaporation and leaf burn. Avoid night irrigation in humid climates to limit fungal disease.,irrigation,easy,water_irrigation
+How do I decide when to harvest?,"Harvest at physiological maturity: check color changes, firmness, sugar content (for fruits), and dry matter. Avoid harvesting after rain.",harvest,easy,postharvest
