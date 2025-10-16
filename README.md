@@ -1,5 +1,3 @@
-# Agriculture-Chatbot
-
 # AgriBot — The Smart Agriculture Assistant
 
 AgriBot is a focused chatbot for agriculture. It answers practical, day-to-day questions for farmers, students, and extension officers across crop management, soil fertility, irrigation, pest & disease control, postharvest handling, and sustainability. The goal is simple: quick, reliable, in-domain guidance presented in a friendly UI.
@@ -30,8 +28,6 @@ AgriBot is a focused chatbot for agriculture. It answers practical, day-to-day q
 - Preprocessing: whitespace cleanup, de-dupe, standardize schema `{question, answer, intent/topic}`.
 - Inputs format (instruction style),
 
-  
-> **Note:** The dataset is small by design (course project). It’s meant to demonstrate approach and engineering choices, not production coverage.
 
 ---
 
